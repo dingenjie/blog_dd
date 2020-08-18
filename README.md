@@ -5,9 +5,6 @@
 - ---
   菜鸟先飞
  
-- [vscode小小笔记](110.md)~~~~
-- [Git小小笔记](./111.md)~~~~
-- [Linux小小笔记](./112.md)~~~~
-- [Eclipse小小笔记](./113.md)~~~~
-- [Jmeter小小笔记](./114.md)~~~~
-- [OwnVerse](OwnVerse/a000.md)~~~
+- [Little Notes（笔记）](LittleNotes/11.md)~~~
+
+- [Own Verse（诗句）](OwnVerse/a000.md)~~~
